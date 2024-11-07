@@ -1,2 +1,1 @@
-# newproject
-WeatherApp
+# AWS-Case_study
